@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Título de la Página</title>
+    <!-- Enlaces a hojas de estilo (CSS), scripts u otras metaetiquetas -->
+</head>
+<body>
+
+    <!-- Contenido de la página -->
+
+    <header>
+        <h1>Encabezado de la Página</h1>
+        <!-- Otros elementos de encabezado, como h2, h3, etc. -->
+    </header>
+
+    <nav>
+        <!-- Menú de navegación -->
+        <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#sobre-nosotros">Sobre Nosotros</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <!-- Secciones temáticas de la página -->
+        <article>
+            <!-- Contenido principal de un artículo -->
+            <h2>Artículo 1</h2>
+            <p>Contenido del artículo...</p>
+        </article>
+
+        <article>
+            <!-- Otro artículo -->
+            <h2>Artículo 2</h2>
+            <p>Contenido del artículo...</p>
+        </article>
+    </section>
+
+    <aside>
+        <!-- Contenido relacionado, como anuncios o enlaces -->
+    </aside>
+
+    <footer>
+        <!-- Pie de página -->
+        <p>Derechos de autor © 2023 Tu Nombre</p>
+    </footer>
+
+</body>
+</html>
